@@ -1,7 +1,7 @@
 {
 	"client": {
-		"host": "Please enter your server URL",
-		"port": "Please enter your server port",
+		"host": "vexesports.mcsh.io",
+		"port": "10853",
 		"username": "Please enter the bot's username you want"
 	},
 	
